@@ -1,0 +1,60 @@
+What does HTML stand for? | Hyper Text Markup Language | High Text Machine Language | Hyperlinks Text Markup Language | None | 0
+Which language is used for web styling? | HTML | CSS | Java | Python | 1
+Which is a programming language? | HTML | CSS | JavaScript | XML | 2
+Which tag is used for paragraph? | <p> | <h1> | <div> | <span> | 0
+Which symbol is used for ID selector in CSS? | . | # | * | & | 1
+Which company developed JavaScript? | Google | Microsoft | Netscape | IBM | 2
+Which keyword declares variable in JS? | int | var | string | let | 3
+Which operator is used for comparison? | = | == | != | Both 2 and 3 | 3
+JavaScript runs in? | Server | Browser | Compiler | Database | 1
+CSS stands for? | Cascading Style Sheets | Computer Style Sheet | Color Style Sheet | None | 0
+Which HTML tag makes text bold? | <b> | <i> | <u> | <strong> | 0
+Which attribute gives link address? | src | href | link | url | 1
+Which tag is used for image? | <image> | <img> | <src> | <pic> | 1
+Which HTML tag is self-closing? | <div> | <p> | <img> | <h1> | 2
+Which CSS property changes text color? | font | color | background | align | 1
+Which JS method prints output? | print() | echo() | console.log() | write() | 2
+Which loop runs at least once? | for | while | do-while | foreach | 2
+Which data type is not primitive? | number | string | boolean | object | 3
+Which symbol is used for comments in JS? | // | <!-- --> | ## | ** | 0
+Which HTML tag creates list? | <list> | <ul> | <ol> | Both 2 and 3 | 3
+Which CSS property sets background color? | color | bgcolor | background-color | back | 2
+Which JS keyword defines constant? | var | let | const | static | 2
+Which HTML tag defines table row? | <tr> | <td> | <th> | <table> | 0
+Which is client-side language? | Java | Python | JavaScript | PHP | 2
+Which CSS unit is relative? | px | cm | % | mm | 2
+Which function converts string to integer? | parseInt() | int() | toInt() | Number() | 0
+Which HTML tag for checkbox? | <input type="check"> | <checkbox> | <input type="checkbox"> | <check> | 2
+Which JS array method adds element? | push() | pop() | shift() | join() | 0
+Which tag defines form? | <input> | <form> | <submit> | <field> | 1
+Which CSS property aligns text? | align | text-align | position | display | 1
+Which JS event occurs on click? | onchange | onmouseover | onclick | onload | 2
+Which symbol is used for class selector? | # | . | * | % | 1
+Which HTML tag is used for heading? | <h1> | <head> | <title> | <header> | 0
+Which keyword stops loop? | break | stop | exit | end | 0
+Which HTML tag plays video? | <media> | <movie> | <video> | <play> | 2
+Which CSS property sets font size? | size | font | font-size | text-size | 2
+Which JS method removes last array element? | pop() | push() | shift() | remove() | 0
+Which HTML tag defines footer? | <bottom> | <footer> | <end> | <foot> | 1
+Which CSS property hides element? | hide | visibility | display | Both 2 and 3 | 3
+Which JS keyword is block scoped? | var | let | function | static | 1
+Which HTML attribute opens link in new tab? | new | target | blank | open | 1
+Which JS function runs on page load? | onstart | onload | ready | init | 1
+Which CSS property makes round corners? | radius | border-radius | corner | round | 1
+Which tag is used for audio? | <sound> | <music> | <audio> | <mp3> | 2
+Which JS operator is logical AND? | && | || | ! | & | 0
+Which HTML tag is semantic? | <div> | <span> | <section> | <b> | 2
+Which CSS property controls layout? | float | display | position | All | 3
+Which JS object stores key-value pairs? | Array | String | Object | Map | 2
+Which HTML tag defines navigation? | <menu> | <nav> | <link> | <ul> | 1
+Which CSS property sets shadow? | shadow | box-shadow | text-shadow | Both 2 and 3 | 3
+Which JS method converts JSON to object? | parse() | JSON.parse() | toObject() | convert() | 1
+Which HTML tag embeds iframe? | <frame> | <iframe> | <embed> | <window> | 1
+Which CSS property sets z-index? | index | layer | z-index | stack | 2
+Which JS method joins array elements? | join() | concat() | merge() | add() | 0
+Which HTML tag defines main content? | <main> | <body> | <section> | <article> | 0
+Which CSS property changes cursor? | pointer | cursor | mouse | click | 1
+Which JS keyword creates function? | func | function | def | method | 1
+Which HTML tag shows emphasized text? | <i> | <em> | <b> | <u> | 1
+Which CSS property makes text uppercase? | text-transform | uppercase | font-case | case | 0
+Which JS method checks array length? | size | count | length | total | 2
