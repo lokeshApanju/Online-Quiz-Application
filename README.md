@@ -32,7 +32,6 @@ online-quiz-application/
 │── style.css       # Styling file
 │── script.js       # Quiz logic (JavaScript)
 │── Question.txt    # Question bank (100 MCQs)
-│── README.md       # Project documentation
 ```
 
 ---
